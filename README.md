@@ -44,6 +44,10 @@ miniProject
    ```bash
    git clone https://github.com/Aarti2417/sidebar-menu-project.git
 
+## 🌐 Live Demo
+[Click here to view the project](https://aarti2417.github.io/sidebar-menu-project/)
+
+
 ## 📬 Contact
 
 Created by Aarti Rathee
